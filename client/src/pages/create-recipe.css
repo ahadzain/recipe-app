@@ -1,0 +1,16 @@
+.create-recipe {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.create-recipe-form {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    padding: 20px;
+    width: 300px;
+    height: auto;
+    border: 1px solid #000;
+}
